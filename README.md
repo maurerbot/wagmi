@@ -64,7 +64,7 @@ npm install wagmi viem
 
 ## Quick Start
 
-Connect a wallet in under 60 seconds. LFG.
+Connect a wallet in under 50 seconds. LFG.
 
 ```tsx
 import { WagmiConfig, createConfig, mainnet } from 'wagmi'
